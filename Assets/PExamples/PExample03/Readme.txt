@@ -1,0 +1,1 @@
+I have implemented only the basics of Photon Chat. To do this, simply run Chat Scene
